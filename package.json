@@ -1,0 +1,11 @@
+{
+  "name": "process-file",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js free_company_dataset.csv"
+  },
+  "author": "Tengiz Putkaradze",
+  "license": "ISC",
+  "description": "To run the app you have to open terminal and write the command 'npm run start' and press Enter."
+}
